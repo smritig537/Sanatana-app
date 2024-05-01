@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/smritig537/Sanatana-app.git/static/css/main.4745ae4c.css",
+    "main.js": "/smritig537/Sanatana-app.git/static/js/main.e610d767.js",
+    "static/js/453.728d4ee6.chunk.js": "/smritig537/Sanatana-app.git/static/js/453.728d4ee6.chunk.js",
+    "static/media/Shri_Jagannatha_Temple.jpg": "/smritig537/Sanatana-app.git/static/media/Shri_Jagannatha_Temple.0969b44cd2de7ed94e77.jpg",
+    "static/media/om.png": "/smritig537/Sanatana-app.git/static/media/om.4d6cdad35e2ce26c21d7.png",
+    "static/media/yog.png": "/smritig537/Sanatana-app.git/static/media/yog.812ec9d5cebc33d981df.png",
+    "static/media/fourth.jpg": "/smritig537/Sanatana-app.git/static/media/fourth.44c36dc2c44e07598582.jpg",
+    "static/media/fifth.jpg": "/smritig537/Sanatana-app.git/static/media/fifth.8c24c4ed5e28376ceee6.jpg",
+    "static/media/second.jpg": "/smritig537/Sanatana-app.git/static/media/second.9cbbcc9464d18e6a0be9.jpg",
+    "static/media/Third.jpg": "/smritig537/Sanatana-app.git/static/media/Third.1278950e8bec7219873a.jpg",
+    "static/media/Kedarnath-Mandir.jpg": "/smritig537/Sanatana-app.git/static/media/Kedarnath-Mandir.423f112acfecf30542ec.jpg",
+    "static/media/First.jpg": "/smritig537/Sanatana-app.git/static/media/First.dfa0f0df2eb01ccb79e0.jpg",
+    "static/media/sixth.jpg": "/smritig537/Sanatana-app.git/static/media/sixth.1a53acd3b128431acb12.jpg",
+    "static/media/LOGO.jpg": "/smritig537/Sanatana-app.git/static/media/LOGO.849f18c60b60548da556.jpg",
+    "index.html": "/smritig537/Sanatana-app.git/index.html",
+    "main.4745ae4c.css.map": "/smritig537/Sanatana-app.git/static/css/main.4745ae4c.css.map",
+    "main.e610d767.js.map": "/smritig537/Sanatana-app.git/static/js/main.e610d767.js.map",
+    "453.728d4ee6.chunk.js.map": "/smritig537/Sanatana-app.git/static/js/453.728d4ee6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4745ae4c.css",
+    "static/js/main.e610d767.js"
+  ]
+}
